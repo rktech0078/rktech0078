@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **rk8466995@gmail.com**
 
-- ⚡ Fun fact **I am very serious on my working**
+- ⚡ Fun fact **I am very serious about my working**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
