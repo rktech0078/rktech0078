@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Abdul Rafay Khan</h1>
 <h3 align="center">A passionate full stack developer from Pakistan</h3>
 
-<img align="right" alt="coding" width="600" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="coding" width="500" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rktech0078&label=Profile%20views&color=0e75b6&style=flat" alt="rktech0078" /> </p>
 
