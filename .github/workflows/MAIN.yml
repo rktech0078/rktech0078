@@ -54,3 +54,7 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+              - name: Snake game generator from Github contributions
+                uses: Sutil/snk@v01.00.02
+            
