@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/abdul-rafay-khan-2780b12b5/](https://www.linkedin.com/in/abdul-rafay-khan-2780b12b5/)
 
-- 📫 How to reach me **rk8466995@gmail.com**
+- 📫 Reach me at: **rk8466995@gmail.com**
 
 - ⚡ Fun fact **I am very serious about my working**
 
