@@ -34,3 +34,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rktech0078&show_icons=true&locale=en" alt="rktech0078" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rktech0078&" alt="rktech0078" /></p>
+
+![snake gif](https://github.com/rktech0078/rktech0078/blob/output/github-contribution-grid-snake.gif)
+
+
+
+
