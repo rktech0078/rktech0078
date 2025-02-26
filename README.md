@@ -1,4 +1,4 @@
-![logo](https://github.com/rktech0078/rktech0078/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png)
+![logo](https://github.com/rktech0078/rktech0078/blob/main/cover%20back.png)
 
 <h1 align="center">Hi 👋, I'm Abdul Rafay Khan</h1>
 <h3 align="center">A passionate full stack developer from Pakistan</h3>
