@@ -24,6 +24,9 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
 </p>
 
 ### 🔧 **Tools & Platforms:**
@@ -32,6 +35,9 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/UV-FF8C00?style=for-the-badge&logo=uv&logoColor=white">
+  <img src="https://img.shields.io/badge/PIP-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white">
 </p>
 
 ---
@@ -39,7 +45,7 @@
 ## 📊 **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rktech0078&show_icons=true&theme=tokyonight" height="180px">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rktech0078&theme=tokyonight" height="180px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rktech0078&theme=highcontrast&hide_border=true" height="180px">
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rktech0078&layout=compact&theme=tokyonight" height="180px">
