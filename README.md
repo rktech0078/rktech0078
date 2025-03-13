@@ -1,42 +1,81 @@
-![logo](https://github.com/rktech0078/rktech0078/blob/main/cover%20back.png)
-
-<h1 align="center">Hi 👋, I'm Abdul Rafay Khan</h1>
-<h3 align="center">A passionate full stack developer from Pakistan</h3>
-
-<img align="right" alt="coding" width="500" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rktech0078&label=Profile%20views&color=0e75b6&style=flat" alt="rktech0078" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **AI,Web 3.0, Metaverse**
-
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/abdul-rafay-khan-2780b12b5/](https://www.linkedin.com/in/abdul-rafay-khan-2780b12b5/)
-
-- 📫 Reach me at: **rk8466995@gmail.com**
-
-- ⚡ Fun fact **I am very serious about my working**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/abdul-rafay-khan-2780b12b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul rafay khan" height="30" width="40" /></a>
-<a href="https://www.facebook.com/people/Hafiz-Abdul-Rafay-Khan/pfbid0R8b9Rf8WXZVUUs3P6xwZvendzghqpWPsmv9QKavaEwqHgCurfqJVDs3fJSPfb2ujl/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hafiz abdul rafay khan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCQ7xGGBNKHxE2USe1ro5czA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@rktech-hf6yz" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+There!+I+am+Abdul+Rafay+Khan;A+Passionate+Full+Stack+Developer;AI+%7C+Web3+%7C+Metaverse+Learner;Let's+Build+Something+Awesome!">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-<p align="left"> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> </p>
+---
 
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm <span style="color:#00F7FF">Abdul Rafay Khan</span>
+</h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rktech0078&show_icons=true&locale=en&layout=compact" alt="rktech0078" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rktech0078&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views">
+  <img src="https://img.shields.io/github/followers/rktech0078?style=for-the-badge" alt="GitHub Followers">
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rktech0078&show_icons=true&locale=en" alt="rktech0078" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rktech0078&" alt="rktech0078" /></p>
+## 🚀 **Tech Stack & Tools**
+### 🛠 **Languages & Frameworks:**
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+</p>
 
+### 🔧 **Tools & Platforms:**
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+</p>
 
+---
 
+## 📊 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rktech0078&show_icons=true&theme=tokyonight" height="180px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rktech0078&theme=tokyonight" height="180px">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rktech0078&layout=compact&theme=tokyonight" height="180px">
+</p>
 
+---
 
+## 🌎 **Connect with Me**
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdul-rafay-khan-2780b12b5/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.facebook.com/people/Hafiz-Abdul-Rafay-Khan/pfbid0R8b9Rf8WXZVUUs3P6xwZvendzghqpWPsmv9QKavaEwqHgCurfqJVDs3fJSPfb2ujl/" target="blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+  </a>
+  <a href="https://www.youtube.com/channel/UCQ7xGGBNKHxE2USe1ro5czA" target="blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+  <a href="mailto:rk8466995@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
 
+---
+
+## 🏆 **GitHub Achievements**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rktech0078&theme=tokyonight&no-bg=true&margin-w=15" />
+</p>
+
+---
+
+## 🔥 **Fun Fact**
+😎 I believe **"If you can think it, you can build it!"** 🚀
+
+---
+
+## 🚀 **Want to Collaborate?**
+If you’re interested in working on a project together, feel free to **reach out!** Let's build something **awesome** 🚀
