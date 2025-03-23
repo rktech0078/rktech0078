@@ -48,7 +48,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rktech0078&theme=highcontrast&hide_border=true" height="180px">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rktech0078&layout=compact&theme=tokyonight" height="200px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rktech0078&layout=compact&theme=tokyonight" height="200px" width="650px">
 </p>
 
 ---
